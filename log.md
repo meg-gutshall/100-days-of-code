@@ -1,30 +1,33 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 1, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I decided to try out a new code challenge site called HackerRank because I sort of committed to this #100DaysOfCode challenge at the last minute. You can read more about that in my blog post (COMING SOON!).
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It was very basic Ruby code so I had to clean off the cobwebs in my brain kind of similar to what you did every school year after summer vacation ended. The only hang-up I had was that I had forgotten to increment the index number at the end of each iteration of the while loop but I caught on to that pretty quickly and it was smooth sailing from there!
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [HackerRank: Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/submissions/code/94531465)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 2, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: Intro to Capybara Tests, Dynamic Routes, and Dynamic Routes Lab.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really like how the dynamic routes work! It's so intuitive and user-friendly-it just makes sense to me. I'm sooo looking forward to the Sinatra project coming up and working with this concept.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Links to work**: [Sinatra Dynamic Routes Lab](https://github.com/meg-gutshall/sinatra-dynamic-routes-lab-v-000)
 
+### Day 3: January 3, 2019
 
-### Day 1: June 27, Monday
+**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: HTML Forms and Params.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts**: Not gonna lie, I was doing this at a bar so I will probably have to review this again soon... ¯\_(ツ)_/¯
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Links to work**: [Sinatra HTML Form and Params](https://github.com/meg-gutshall/sinatra-forms-params-readme-walkthrough-v-000)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 4: January 4, 2019
+
+**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: Passing Data Between Views and Controllers and Basic Sinatra Forms Lab.
+
+**Thoughts**: First off, LOVED the examples they used for this lab. Some of the greats... not basketball, but there's a team called the Utah Jazz, right? I found it fascinating how you can retrieve user input, manipulate it, and return it in another path on your site. I was confused though with the get and post methods and which paths they were supposed to use. (Again, why I need to review the HTML Forms and Params lesson.) If it still doesn't make sense after I review, I plan on using Flatiron's 'Ask A Question' feature to try to understand.
+
+**Links to work**: [Basic Sinatra Forms Lab](https://github.com/meg-gutshall/basic-sinatra-forms-lab-v-000)
