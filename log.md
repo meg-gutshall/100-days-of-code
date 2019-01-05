@@ -9,6 +9,7 @@
 **Link to work:** [HackerRank: Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/submissions/code/94531465)
 
 
+
 ### Day 2: January 2, 2019
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: Intro to Capybara Tests, Dynamic Routes, and Dynamic Routes Lab.
@@ -18,6 +19,7 @@
 **Links to work**: [Sinatra Dynamic Routes Lab](https://github.com/meg-gutshall/sinatra-dynamic-routes-lab-v-000)
 
 
+
 ### Day 3: January 3, 2019
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: HTML Forms and Params.
@@ -25,6 +27,7 @@
 **Thoughts**: Not gonna lie, I was doing this at a bar so I will probably have to review this again soon... ¯\_(ツ)_/¯
 
 **Links to work**: [Sinatra HTML Form and Params](https://github.com/meg-gutshall/sinatra-forms-params-readme-walkthrough-v-000)
+
 
 
 ### Day 4: January 4, 2019
