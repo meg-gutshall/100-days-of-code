@@ -32,15 +32,15 @@
 
 **Links to work**: [Basic Sinatra Forms Lab](https://github.com/meg-gutshall/basic-sinatra-forms-lab-v-000)
 
-<!-- ### Day 5: January 5, 2019
+### Day 5: January 5, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Started working on a small program.
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I wanted to work on some more of the curriculum today but didn't get to it until late and I am EXHAUSTED. I decided to stub out a little program that's been forming in the back of my mind instead. It's very simple and fun, I just have to find a way to execute it. I think this will turn into a 2-3 day project.
 
-**Links to work**: [Title](link)
+**Links to work**: It's a secret... for now.
 
-### Day 6: January 6, 2019
+<!-- ### Day 6: January 6, 2019
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
 
