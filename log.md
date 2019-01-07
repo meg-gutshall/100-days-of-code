@@ -40,15 +40,19 @@
 
 **Links to work**: It's a secret... for now.
 
-<!-- ### Day 6: January 6, 2019
+### Day 6: January 6, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: I went back and reviewed the HTML Forms and Params lesson. I also took another look at the Basic Sinatra Forms Lab.
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Okay, I'm all good with the HTML Forms and Params. They basically provide hashes-the keys being the form's name attribute and the values created by user input. Again, this is super awesome and dynamic and I can't wait to implement it in a project!
 
-**Links to work**: [Title](link)
+A few days ago I was pretty confused by the post methods, the paths, and what should go in the app vs. the form but now I'm pretty sure I have it figured out:
 
-### Day 7: January 7, 2019
+In the app.rb file (the controller) it's saying that when the server receives a GET request with the '/newteam' path, it displays the code in the newteam.erb file (a view). This file contains the form which asks for the user's input to create a basketball team. Once submitted, this form sends data as a POST request to the '/team' path. The server receives this request, goes back to our controller, captures the data stored within the matching controller action block, and displays the team.erb view. Since we're using instance variables in the controller to store data collected from the form, we're able to broaden the scope of these variables to include the team.erb file. As a result, the browser automatically redirects to the '/team' page and displays the basketball roster. [Tweet](https://twitter.com/meg_gutshall/status/1081388660174540801)
+
+**Links to work**: [Basic Sinatra Forms Lab](https://github.com/meg-gutshall/basic-sinatra-forms-lab-v-000)
+
+<!-- ### Day 7: January 7, 2019
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
 
