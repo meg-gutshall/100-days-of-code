@@ -52,15 +52,15 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 **Links to work**: [Basic Sinatra Forms Lab](https://github.com/meg-gutshall/basic-sinatra-forms-lab-v-000)
 
-<!-- ### Day 7: January 7, 2019
+### Day 7: January 7, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: It's Monday so I had a Code Talk session this morning! We worked on a [codewars.com](codewars.com) code challenge called "Good vs. Evil".
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I was in a group with Guy and Suchitra. We started out with psuedocode and once that was established we started writing the program. It was pretty straight forward, although we hit a small snag that Guy was able to solve right away. The part I liked best was when the groups met back together and shared their answers with one another. It's neat to see the similarities and differences in how we approach these problems. [Tweet](https://twitter.com/meg_gutshall/status/1082452964479037441)
 
-**Links to work**: [Title](link)
+**Links to work**: [Good vs. Evil Code Challenge](https://www.codewars.com/kata/52761ee4cffbc69732000738), [Good vs. Evil Solution](https://repl.it/@meg_gutshall/GoodVsEvil), and [Good vs. Evil Refactored Solution](https://repl.it/@meg_gutshall/GoodVsEvilRefactored)
 
-### Day 8: January 8, 2019
+<!-- ### Day 8: January 8, 2019
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
 
