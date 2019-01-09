@@ -66,15 +66,15 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 **Thoughts**: Capybara is definitely more readable than RSpec as far a testing frameworks go. I think I'm pretty comfortable with reading the tests but I'm not sure how well I'd do with writing the tests. I will definitely give that a shot as I go through this challenge. [Tweet](https://twitter.com/meg_gutshall/status/1082838809904074753)
 
-<!-- ### Day 9: January 9, 2019
+### Day 9: January 9, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: MVC Lab, Basic Forms Lab, Nested Forms, and Nested Forms Lab: Pirates!
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I am definitely mentally exhausted right now. I feel like I understand the concepts behind MVC and nested forms, it's just writing out the code and the tediousness of making sure everything is going exactly the way it's supposed to is really frying my brain right now. I think I'll have to break out the whiteboard again for this last MVC lab in the section and see how that compares to writing psuedocode on the computer. [Tweet]()
 
-**Links to work**: [Title](link)
+**Links to work**: [Pig Latinizer](https://github.com/meg-gutshall/sinatra-mvc-lab-v-000), [Puppy Adoption Site](https://github.com/meg-gutshall/sinatra-basic-forms-lab-v-000), and [Pirates!](https://github.com/meg-gutshall/sinatra-nested-forms-v-000)
 
-### Day 10: January 10, 2019
+<!-- ### Day 10: January 10, 2019
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
 
