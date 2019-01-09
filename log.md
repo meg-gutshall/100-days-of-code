@@ -64,7 +64,7 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 **Today's Progress**: Attended a Flatiron study session on Capybara testing.
 
-**Thoughts**: Capybara is definitely more readable than RSpec as far a testing frameworks go. I think I'm pretty comfortable with reading the tests but I'm not sure how well I'd do with writing the tests. I will definitely give that a shot as I go through this challenge. [Tweet]()
+**Thoughts**: Capybara is definitely more readable than RSpec as far a testing frameworks go. I think I'm pretty comfortable with reading the tests but I'm not sure how well I'd do with writing the tests. I will definitely give that a shot as I go through this challenge. [Tweet](https://twitter.com/meg_gutshall/status/1082838809904074753)
 
 <!-- ### Day 9: January 9, 2019
 
