@@ -70,19 +70,19 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: MVC Lab, Basic Forms Lab, Nested Forms, and Nested Forms Lab: Pirates!
 
-**Thoughts**: I am definitely mentally exhausted right now. I feel like I understand the concepts behind MVC and nested forms, it's just writing out the code and the tediousness of making sure everything is going exactly the way it's supposed to is really frying my brain right now. I think I'll have to break out the whiteboard again for this last MVC lab in the section and see how that compares to writing psuedocode on the computer. [Tweet]()
+**Thoughts**: I am definitely mentally exhausted right now. I feel like I understand the concepts behind MVC and nested forms, it's just writing out the code and the tediousness of making sure everything is going exactly the way it's supposed to is really frying my brain right now. I think I'll have to break out the whiteboard again for this last MVC lab in the section and see how that compares to writing psuedocode on the computer. [Tweet](https://twitter.com/meg_gutshall/status/1083139056161181697)
 
 **Links to work**: [Pig Latinizer](https://github.com/meg-gutshall/sinatra-mvc-lab-v-000), [Puppy Adoption Site](https://github.com/meg-gutshall/sinatra-basic-forms-lab-v-000), and [Pirates!](https://github.com/meg-gutshall/sinatra-nested-forms-v-000)
 
-<!-- ### Day 10: January 10, 2019
+### Day 10: January 10, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: Nested Forms Lab: Superheros!, Sessions and Cookies, and Mechanics of Sessions
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Compared to the Pirates! lab from yesterday, Superheros! was pretty easy... which I did NOT mind! I also started on the Sessions section, learning about sessions and cookies. It's pretty interesting stuff and I now know what "clearing my cookies" actually means. I plan on completing the section labs tomorrow and moving forward to ActiveRecord. [Tweet](https://twitter.com/meg_gutshall/status/1083537011825393664)
 
-**Links to work**: [Title](link)
+**Links to work**: [Superheros!](https://github.com/meg-gutshall/sinatra-nested-forms-lab-superheros-v-000)
 
-### Day 11: January 11, 2019
+<!-- ### Day 11: January 11, 2019
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
 
