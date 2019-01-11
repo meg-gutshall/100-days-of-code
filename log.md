@@ -14,7 +14,7 @@
 
 **Thoughts**: I really like how the dynamic routes work! It's so intuitive and user-friendly-it just makes sense to me. I'm sooo looking forward to the Sinatra project coming up and working with this concept. [Tweet](https://twitter.com/meg_gutshall/status/1080654606613573633)
 
-**Links to work**: [Sinatra Dynamic Routes Lab](https://github.com/meg-gutshall/sinatra-dynamic-routes-lab-v-000)
+**Link to work**: [Sinatra Dynamic Routes Lab](https://github.com/meg-gutshall/sinatra-dynamic-routes-lab-v-000)
 
 ### Day 3: January 3, 2019
 
@@ -22,7 +22,7 @@
 
 **Thoughts**: Not gonna lie, I was doing this at a bar so I will probably have to review this again soon... ¯\_(ツ)_/¯
 
-**Links to work**: [Sinatra HTML Form and Params](https://github.com/meg-gutshall/sinatra-forms-params-readme-walkthrough-v-000)
+**Link to work**: [Sinatra HTML Form and Params](https://github.com/meg-gutshall/sinatra-forms-params-readme-walkthrough-v-000)
 
 ### Day 4: January 4, 2019
 
@@ -30,7 +30,7 @@
 
 **Thoughts**: First off, LOVED the examples they used for this lab. Some of the greats... not basketball, but there's a team called the Utah Jazz, right? I found it fascinating how you can retrieve user input, manipulate it, and return it in another path on your site. I was confused though with the get and post methods and which paths they were supposed to use. (Again, why I need to review the HTML Forms and Params lesson.) If it still doesn't make sense after I review, I plan on using Flatiron's 'Ask A Question' feature to try to understand. [Tweet](https://twitter.com/meg_gutshall/status/1081388660174540801)
 
-**Links to work**: [Basic Sinatra Forms Lab](https://github.com/meg-gutshall/basic-sinatra-forms-lab-v-000)
+**Link to work**: [Basic Sinatra Forms Lab](https://github.com/meg-gutshall/basic-sinatra-forms-lab-v-000)
 
 ### Day 5: January 5, 2019
 
@@ -38,7 +38,7 @@
 
 **Thoughts**: I wanted to work on some more of the curriculum today but didn't get to it until late and I am EXHAUSTED. I decided to stub out a little program that's been forming in the back of my mind instead. It's very simple and fun, I just have to find a way to execute it. I think this will turn into a 2-3 day project.
 
-**Links to work**: It's a secret... for now.
+**Link to work**: It's a secret... for now.
 
 ### Day 6: January 6, 2019
 
@@ -50,7 +50,7 @@ A few days ago I was pretty confused by the post methods, the paths, and what sh
 
 In the app.rb file (the controller) it's saying that when the server receives a GET request with the '/newteam' path, it displays the code in the newteam.erb file (a view). This file contains the form which asks for the user's input to create a basketball team. Once submitted, this form sends data as a POST request to the '/team' path. The server receives this request, goes back to our controller, captures the data stored within the matching controller action block, and displays the team.erb view. Since we're using instance variables in the controller to store data collected from the form, we're able to broaden the scope of these variables to include the team.erb file. As a result, the browser automatically redirects to the '/team' page and displays the basketball roster. [Tweet](https://twitter.com/meg_gutshall/status/1082098520126050309)
 
-**Links to work**: [Basic Sinatra Forms Lab](https://github.com/meg-gutshall/basic-sinatra-forms-lab-v-000)
+**Link to work**: [Basic Sinatra Forms Lab](https://github.com/meg-gutshall/basic-sinatra-forms-lab-v-000)
 
 ### Day 7: January 7, 2019
 
@@ -80,7 +80,7 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 **Thoughts**: Compared to the Pirates! lab from yesterday, Superheros! was pretty easy... which I did NOT mind! I also started on the Sessions section, learning about sessions and cookies. It's pretty interesting stuff and I now know what "clearing my cookies" actually means. I plan on completing the section labs tomorrow and moving forward to ActiveRecord. [Tweet](https://twitter.com/meg_gutshall/status/1083537011825393664)
 
-**Links to work**: [Superheros!](https://github.com/meg-gutshall/sinatra-nested-forms-lab-superheros-v-000)
+**Link to work**: [Superheros!](https://github.com/meg-gutshall/sinatra-nested-forms-lab-superheros-v-000)
 
 <!-- ### Day 11: January 11, 2019
 
