@@ -82,23 +82,21 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 **Link to work**: [Superheros!](https://github.com/meg-gutshall/sinatra-nested-forms-lab-superheros-v-000)
 
-<!-- ### Day 11: January 11, 2019
+### Day 11: January 11, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: Sinatra Sessions Lab
 
-**Thoughts**: Thoughts and observations here...
-
-**Links to work**: [Title](link)
+**Thoughts**: Okay, things didn't go exactly according to plan today... This is a HARD lab! I'm still trying to wrap my head around how sessions fit in with params and instance variables in these controller action blocks. I like that we're learning about session secrets though and I read more in the [Sinatra documentation](http://sinatrarb.com/intro) on how to generate a secret. I decided to give my brain a break for tonight and get back to it tomorrow. [Tweet](https://twitter.com/meg_gutshall/status/1083884128204926986)
 
 ### Day 12: January 12, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: Sinatra Sessions Lab and Sinatra Sessions Code Along
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I opened up my Sinatra Sessions Lab in VSCode and deleted ONE line... now all my tests are passing. Haha! I was on to something last night, I was just lacking the mental energy to go all the way. Officially onto Sinatra's ActiveRecord section now!! [Tweet](https://twitter.com/meg_gutshall/status/1084196728914497539)
 
-**Links to work**: [Title](link)
+**Link to work**: [Sinatra Sessions Lab](link)
 
-### Day 13: January 13, 2019
+<!-- ### Day 13: January 13, 2019
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
 
