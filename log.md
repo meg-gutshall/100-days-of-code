@@ -92,19 +92,17 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: Sinatra Sessions Lab and Sinatra Sessions Code Along
 
-**Thoughts**: I opened up my Sinatra Sessions Lab in VSCode and deleted ONE line... now all my tests are passing. Haha! I was on to something last night, I was just lacking the mental energy to go all the way. Officially onto Sinatra's ActiveRecord section now!! [Tweet](https://twitter.com/meg_gutshall/status/1084196728914497539)
+**Thoughts**: I opened up my Sinatra Sessions Lab in VS Code and deleted ONE line... now all my tests are passing. Haha! I was on to something last night, I was just lacking the mental energy to go all the way. Officially onto Sinatra's ActiveRecord section now!! [Tweet](https://twitter.com/meg_gutshall/status/1084196728914497539)
 
 **Link to work**: [Sinatra Sessions Lab](link)
 
-<!-- ### Day 13: January 13, 2019
+### Day 13: January 13, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: ActiveRecord Setup in Sinatra
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I went through the first ActiveRecord lesson in Sinatra and I am done for the night. Too long of a day with other work and too late of a start on my school work. I'm going to totally kill it tomorrow... starting with CODE TALK!! [Tweet](https://twitter.com/meg_gutshall/status/1084637626848759812)
 
-**Links to work**: [Title](link)
-
-### Day 14: January 14, 2019
+<!-- ### Day 14: January 14, 2019
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
 
