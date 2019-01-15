@@ -102,15 +102,15 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 **Thoughts**: I went through the first ActiveRecord lesson in Sinatra and I am done for the night. Too long of a day with other work and too late of a start on my school work. I'm going to totally kill it tomorrow... starting with CODE TALK!! [Tweet](https://twitter.com/meg_gutshall/status/1084637626848759812)
 
-<!-- ### Day 14: January 14, 2019
+### Day 14: January 14, 2019
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Thoughts and observations here... 
 
 **Links to work**: [Title](link)
 
-### Day 15: January 15, 2019
+<!-- ### Day 15: January 15, 2019
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
 
