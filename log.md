@@ -104,11 +104,11 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 ### Day 14: January 14, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: ActiveRecord in Sinatra and Sinatra ActiveRecord CRUD Lab
 
-**Thoughts**: Thoughts and observations here... 
+**Thoughts**: I think relating ActiveRecord's CRUD and Sinatra's MVC Controller will definitely take some practice, but I got a good start! So thankful to my fellow Flatiron students for helping me through the second half of this lab. They probably halved the time it would have taken me to complete it. [Twitter](https://twitter.com/meg_gutshall/status/1085020726372065280)
 
-**Links to work**: [Title](link)
+**Links to work**: [Sinatra ActiveRecord CRUD](https://github.com/meg-gutshall/sinatra-ar-crud-lab-v-000)
 
 <!-- ### Day 15: January 15, 2019
 
