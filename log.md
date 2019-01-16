@@ -110,15 +110,15 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 **Links to work**: [Sinatra ActiveRecord CRUD](https://github.com/meg-gutshall/sinatra-ar-crud-lab-v-000)
 
-<!-- ### Day 15: January 15, 2019
+### Day 15: January 15, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: User Authentication in Sinatra
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I've been waiting for this day!!! So happy that we're learning how to create and authenticate users! This opens up so many doors for future programs now! Also it was a pretty straightforward lab. Which is why I was so surprised that the solution in Flatiron's GitHub repo was wrong. Not the first time I've come across this and probably won't be the last but it's still really disappointing when it happens. I submitted a pull request for an alternate solution as well as raised an issue but, that's hasn't done shit in the past so I don't expect much now either... we'll have to wait and see I guess. [Twitter]()
 
-**Links to work**: [Title](link)
+**Link to work**: [User Authentication in Sinatra](https://github.com/meg-gutshall/sinatra-user-auth-v-000)
 
-### Day 16: January 16, 2019
+<!-- ### Day 16: January 16, 2019
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
 
