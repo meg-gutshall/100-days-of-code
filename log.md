@@ -118,15 +118,17 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 **Link to work**: [User Authentication in Sinatra](https://github.com/meg-gutshall/sinatra-user-auth-v-000)
 
-<!-- ### Day 16: January 16, 2019
+### Day 16: January 16, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: User Logins Lab, Securing Passwords in Sinatra, and Secure Password Lab
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: This one was a bit tricky because we incorporated helper methods into this lab as well as dealt with redirects. That tripped me up a bit. I learned that in an action controller block, once you hit a redirect, the block stop executing the code. That is not the case once you call erb on a view page, it will keep going so if you're making a view conditional, you have to do it with an if/else statement.
+I also learned about securing passwords, which can never be a bad thing. I like that there's a gem for this one as well and that it works right alongside an ActiveRecord macro. Makes things nice and easy! One thing that stuck out to me after reviewing Flatiron's solution to the Secure Password Lab is that you should test for valid username and password input upon registration first and depending on it's validity, redirect the user to an error page/show them an error message or create a new instance of the User class. That way you won't have bad data in your database!
+[Tweet](https://twitter.com/meg_gutshall/status/1085717494118141952)
 
-**Links to work**: [Title](link)
+**Links to work**: [Sinatra Sessions – User Logins](https://github.com/meg-gutshall/sinatra-logging-in-and-out-v-000), [Securing Passwords in Sinatra](https://github.com/meg-gutshall/sinatra-password-security-v-000), and [Secure Password Lab](https://github.com/meg-gutshall/sinatra-secure-password-lab-v-000)
 
-### Day 17: January 17, 2019
+<!-- ### Day 17: January 17, 2019
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
 
