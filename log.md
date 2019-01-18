@@ -128,15 +128,15 @@ I also learned about securing passwords, which can never be a bad thing. I like 
 
 **Links to work**: [Sinatra Sessions – User Logins](https://github.com/meg-gutshall/sinatra-logging-in-and-out-v-000), [Securing Passwords in Sinatra](https://github.com/meg-gutshall/sinatra-password-security-v-000), and [Secure Password Lab](https://github.com/meg-gutshall/sinatra-secure-password-lab-v-000)
 
-<!-- ### Day 17: January 17, 2019
+### Day 17: January 17, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: RESTful Routes and RESTful Routes Lab
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I'm not really sure what the difference was supposed to be between these and what we've been doing already. It seemed to me just like the params and sessions stuff with some dynamic routes thrown in. The big picture will probably become clearer as I go along. [Tweet](https://twitter.com/meg_gutshall/status/1086106867192000512)
 
-**Links to work**: [Title](link)
+**Links to work**: [Sinatra RESTful Routes Lab](https://github.com/meg-gutshall/sinatra-restful-routes-lab-v-000)
 
-### Day 18: January 18, 2019
+<!-- ### Day 18: January 18, 2019
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
 
