@@ -26,7 +26,7 @@
 
 ### Day 4: January 4, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: Passing Data Between Views and Controllers and Basic Sinatra Forms Lab.
+**Today's Progress**: Worked through some of Flatiron's section curriculum: Passing Data Between Views and Controllers and Basic Sinatra Forms Lab.
 
 **Thoughts**: First off, LOVED the examples they used for this lab. Some of the greats... not basketball, but there's a team called the Utah Jazz, right? I found it fascinating how you can retrieve user input, manipulate it, and return it in another path on your site. I was confused though with the get and post methods and which paths they were supposed to use. (Again, why I need to review the HTML Forms and Params lesson.) If it still doesn't make sense after I review, I plan on using Flatiron's 'Ask A Question' feature to try to understand. [Tweet](https://twitter.com/meg_gutshall/status/1081388660174540801)
 
@@ -68,7 +68,7 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 ### Day 9: January 9, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: MVC Lab, Basic Forms Lab, Nested Forms, and Nested Forms Lab: Pirates!
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra MVC Lab, Sinatra Basic Forms Lab, Sinatra Nested Forms, and Sinatra Nested Forms Lab: Pirates!
 
 **Thoughts**: I am definitely mentally exhausted right now. I feel like I understand the concepts behind MVC and nested forms, it's just writing out the code and the tediousness of making sure everything is going exactly the way it's supposed to is really frying my brain right now. I think I'll have to break out the whiteboard again for this last MVC lab in the section and see how that compares to writing psuedocode on the computer. [Tweet](https://twitter.com/meg_gutshall/status/1083139056161181697)
 
@@ -76,7 +76,7 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 ### Day 10: January 10, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: Nested Forms Lab: Superheros!, Sessions and Cookies, and Mechanics of Sessions
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra Nested Forms Lab: Superheros!, Sessions and Cookies, and Mechanics of Sessions
 
 **Thoughts**: Compared to the Pirates! lab from yesterday, Superheros! was pretty easy... which I did NOT mind! I also started on the Sessions section, learning about sessions and cookies. It's pretty interesting stuff and I now know what "clearing my cookies" actually means. I plan on completing the section labs tomorrow and moving forward to ActiveRecord. [Tweet](https://twitter.com/meg_gutshall/status/1083537011825393664)
 
@@ -84,13 +84,13 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 ### Day 11: January 11, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: Sinatra Sessions Lab
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra Sessions Lab
 
 **Thoughts**: Okay, things didn't go exactly according to plan today... This is a HARD lab! I'm still trying to wrap my head around how sessions fit in with params and instance variables in these controller action blocks. I like that we're learning about session secrets though and I read more in the [Sinatra documentation](http://sinatrarb.com/intro) on how to generate a secret. I decided to give my brain a break for tonight and get back to it tomorrow. [Tweet](https://twitter.com/meg_gutshall/status/1083884128204926986)
 
 ### Day 12: January 12, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: Sinatra Sessions Lab and Sinatra Sessions Code Along
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra Sessions Lab and Sinatra Sessions Code Along
 
 **Thoughts**: I opened up my Sinatra Sessions Lab in VS Code and deleted ONE line... now all my tests are passing. Haha! I was on to something last night, I was just lacking the mental energy to go all the way. Officially onto Sinatra's ActiveRecord section now!! [Tweet](https://twitter.com/meg_gutshall/status/1084196728914497539)
 
@@ -98,13 +98,13 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 ### Day 13: January 13, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: ActiveRecord Setup in Sinatra
+**Today's Progress**: Worked through some of Flatiron's curriculum: ActiveRecord Setup in Sinatra
 
 **Thoughts**: I went through the first ActiveRecord lesson in Sinatra and I am done for the night. Too long of a day with other work and too late of a start on my school work. I'm going to totally kill it tomorrow... starting with CODE TALK!! [Tweet](https://twitter.com/meg_gutshall/status/1084637626848759812)
 
 ### Day 14: January 14, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: ActiveRecord in Sinatra and Sinatra ActiveRecord CRUD Lab
+**Today's Progress**: Worked through some of Flatiron's curriculum: ActiveRecord in Sinatra and Sinatra ActiveRecord CRUD Lab
 
 **Thoughts**: I think relating ActiveRecord's CRUD and Sinatra's MVC Controller will definitely take some practice, but I got a good start! So thankful to my fellow Flatiron students for helping me through the second half of this lab. They probably halved the time it would have taken me to complete it. [Twitter](https://twitter.com/meg_gutshall/status/1085020726372065280)
 
@@ -112,7 +112,7 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 ### Day 15: January 15, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: User Authentication in Sinatra
+**Today's Progress**: Worked through some of Flatiron's curriculum: User Authentication in Sinatra
 
 **Thoughts**: I've been waiting for this day!!! So happy that we're learning how to create and authenticate users! This opens up so many doors for future programs now! Also it was a pretty straightforward lab. Which is why I was so surprised that the solution in Flatiron's GitHub repo was wrong. Not the first time I've come across this and probably won't be the last but it's still really disappointing when it happens. I submitted a pull request for an alternate solution as well as raised an issue but, that's hasn't done shit in the past so I don't expect much now either... we'll have to wait and see I guess. [Twitter](https://twitter.com/meg_gutshall/status/1085345021094707200)
 
@@ -120,7 +120,7 @@ In the app.rb file (the controller) it's saying that when the server receives a 
 
 ### Day 16: January 16, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: User Logins Lab, Securing Passwords in Sinatra, and Secure Password Lab
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra Sessions - User Logins Lab, Securing Passwords in Sinatra, and Secure Password Lab
 
 **Thoughts**: This one was a bit tricky because we incorporated helper methods into this lab as well as dealt with redirects. That tripped me up a bit. I learned that in an action controller block, once you hit a redirect, the block stop executing the code. That is not the case once you call erb on a view page, it will keep going so if you're making a view conditional, you have to do it with an if/else statement.
 I also learned about securing passwords, which can never be a bad thing. I like that there's a gem for this one as well and that it works right alongside an ActiveRecord macro. Makes things nice and easy! One thing that stuck out to me after reviewing Flatiron's solution to the Secure Password Lab is that you should test for valid username and password input upon registration first and depending on it's validity, redirect the user to an error page/show them an error message or create a new instance of the User class. That way you won't have bad data in your database!
@@ -130,21 +130,21 @@ I also learned about securing passwords, which can never be a bad thing. I like 
 
 ### Day 17: January 17, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: RESTful Routes and RESTful Routes Lab
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra RESTful Routes and Sinatra RESTful Routes Lab
 
 **Thoughts**: I'm not really sure what the difference was supposed to be between these and what we've been doing already. It seemed to me just like the params and sessions stuff with some dynamic routes thrown in. The big picture will probably become clearer as I go along. [Tweet](https://twitter.com/meg_gutshall/status/1086106867192000512)
 
-**Links to work**: [Sinatra RESTful Routes Lab](https://github.com/meg-gutshall/sinatra-restful-routes-lab-v-000)
+**Link to work**: [Sinatra RESTful Routes Lab](https://github.com/meg-gutshall/sinatra-restful-routes-lab-v-000)
 
-<!-- ### Day 18: January 18, 2019
+### Day 18: January 18, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Using Tux in Sinatra with ActiveRecord, ActiveRecord Associations in Sinatra, ActiveRecord Associations: Join Tables, Sinatra Multiple Controllers, and I revisited the Sinatra ActiveRecord CRUD Lab
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I'm really cruising through this section but I'm about to start on the last three labs so we'll see how that goes... I found a new study buddy today!! We went over the CRUD lab and learned that the ActiveRecord::Base#update method has been depreciated. It was a lot of reading lessons and code-alongs today. [Tweet](https://twitter.com/meg_gutshall/status/1086425773664337921)
 
-**Links to work**: [Title](link)
+**Links to work**: [Using Tux in Sinatra with ActiveRecord](https://github.com/meg-gutshall/sinatra-activerecord-using-tux-v-000), [ActiveRecord Associations in Sinatra](https://github.com/meg-gutshall/sinatra-activerecord-associations-v-000), and [Sinatra ActiveRecord CRUD Lab](https://github.com/meg-gutshall/sinatra-ar-crud-lab-v-000)
 
-### Day 19: January 19, 2019
+<!-- ### Day 19: January 19, 2019
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
 
