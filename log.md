@@ -144,23 +144,25 @@ I also learned about securing passwords, which can never be a bad thing. I like 
 
 **Links to work**: [Using Tux in Sinatra with ActiveRecord](https://github.com/meg-gutshall/sinatra-activerecord-using-tux-v-000), [ActiveRecord Associations in Sinatra](https://github.com/meg-gutshall/sinatra-activerecord-associations-v-000), and [Sinatra ActiveRecord CRUD Lab](https://github.com/meg-gutshall/sinatra-ar-crud-lab-v-000)
 
-<!-- ### Day 19: January 19, 2019
+### Day 19: January 19, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra Complex Forms Associations... and played Git Game in a study group led by Guy!
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Started my day with a Git study session led by fellow student [Guy Bryant](https://github.com/guysbryant). We worked on this repo called git-game which was pretty cool! It was like a ten level puzzle that taught you all different Git commands. There's a second level as well but I think we'll need some reinforcements to tackle that one. Also chatted with him afterward on various topics but he showed me some nice terminal shells that I hadn't gotten a chance to look into up to that point. I'll have to dedicate a bit of time soon to pick something that fits my programming style.
 
-**Links to work**: [Title](link)
+On another note, I started my Sinatra Complex Forms Associations lab at the bar and about 75 minutes into well... see for yourself. Haha! [Tweet](https://twitter.com/meg_gutshall/status/1086791494248419328)
+
+**Link to work**: [Git Game](https://github.com/meg-gutshall/git-game)
 
 ### Day 20: January 20, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra Complex Forms Associations
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Didn't have as much time to code today as I would have liked but that's okay, I still got it in! I got finished about half (I think?) of the Sinatra Complex Forms Associations lab so I'll wrap that up tomorrow and see what the next one brings. [Tweet](https://twitter.com/meg_gutshall/status/1087212265667989509)
 
-**Links to work**: [Title](link)
+**Link to work**: [Sinatra Complex Forms Associations](https://github.com/meg-gutshall/sinatra-complex-forms-associations-v-000)
 
-### Day 21: January 21, 2019
+<!-- ### Day 21: January 21, 2019
 
 **Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
 
