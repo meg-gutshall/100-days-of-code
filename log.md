@@ -162,17 +162,17 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Link to work**: [Sinatra Complex Forms Associations](https://github.com/meg-gutshall/sinatra-complex-forms-associations-v-000)
 
-<!-- ### Day 21: January 21, 2019
+### Day 21: January 21, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked on this damn CodeWars code challenge today that I still haven't solved!
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: It was a complicated problem and I think I got a solution that would work except it involves an array that grows exponentially so every time I try to run my code it times out. So my solution may be correct, but it's not feasible as far as memory goes which is as good as incorrect. I'll get back to it another day. [Tweet](https://twitter.com/meg_gutshall/status/1087526258022469632)
 
-**Links to work**: [Title](link)
+**Link to work**: [Double Cola](https://github.com/meg-gutshall/sandbox/blob/master/lib/double_cola.rb)
 
-### Day 22: January 22, 2019
+<!-- ### Day 22: January 22, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -180,7 +180,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 23: January 23, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -188,7 +188,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 24: January 24, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -196,7 +196,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 25: January 25, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -204,7 +204,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 26: January 26, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -212,7 +212,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 27: January 27, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -220,7 +220,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 28: January 28, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -228,7 +228,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 29: January 29, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -236,7 +236,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 30: January 30, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -244,7 +244,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 31: January 31, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -252,7 +252,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 32: February 1, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -260,7 +260,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 33: February 2, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -268,7 +268,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 34: February 3, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -276,7 +276,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 35: February 4, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -284,7 +284,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 36: February 5, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -292,7 +292,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 37: February 6, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -300,7 +300,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 38: February 7, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -308,7 +308,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 39: February 8, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -316,7 +316,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 40: February 9, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -324,7 +324,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 41: February 10, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -332,7 +332,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 42: February 11, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -340,7 +340,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 43: February 12, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -348,7 +348,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 44: February 13, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -356,7 +356,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 45: February 14, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -364,7 +364,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 46: February 15, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -372,7 +372,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 47: February 16, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -380,7 +380,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 48: February 17, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -388,7 +388,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 49: February 18, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -396,7 +396,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 50: February 19, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -404,7 +404,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 51: February 20, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -412,7 +412,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 52: February 21, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -420,7 +420,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 53: February 22, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -428,7 +428,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 54: February 23, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -436,7 +436,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 55: February 24, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -444,7 +444,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 56: February 25, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -452,7 +452,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 57: February 26, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -460,7 +460,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 58: February 27, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -468,7 +468,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 59: February 28, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -476,7 +476,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 60: March 1, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -484,7 +484,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 61: March 2, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -492,7 +492,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 62: March 3, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -500,7 +500,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 63: March 4, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -508,7 +508,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 64: March 5, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -516,7 +516,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 65: March 6, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -524,7 +524,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 66: March 7, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -532,7 +532,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 67: March 8, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -540,7 +540,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 68: March 9, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -548,7 +548,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 69: March 10, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -556,7 +556,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 70: March 11, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -564,7 +564,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 71: March 12, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -572,7 +572,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 72: March 13, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -580,7 +580,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 73: March 14, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -588,7 +588,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 74: March 15, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -596,7 +596,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 75: March 16, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -604,7 +604,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 76: March 17, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -612,7 +612,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 77: March 18, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -620,7 +620,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 78: March 19, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -628,7 +628,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 79: March 20, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -636,7 +636,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 80: March 21, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -644,7 +644,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 81: March 22, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -652,7 +652,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 82: March 23, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -660,7 +660,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 83: March 24, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -668,7 +668,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 84: March 25, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -676,7 +676,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 85: March 26, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -684,7 +684,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 86: March 27, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -692,7 +692,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 87: March 28, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -700,7 +700,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 88: March 29, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -708,7 +708,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 89: March 30, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -716,7 +716,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 90: March 31, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -724,7 +724,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 91: April 1, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -732,7 +732,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 92: April 2, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -740,7 +740,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 93: April 3, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -748,7 +748,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 94: April 4, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -756,7 +756,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 95: April 5, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -764,7 +764,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 96: April 6, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -772,7 +772,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 97: April 7, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -780,7 +780,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 98: April 8, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -788,7 +788,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 99: April 9, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -796,7 +796,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 100: April 10, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -804,7 +804,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 101: April 11, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -812,7 +812,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 102: April 12, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -820,7 +820,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 103: April 13, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -828,7 +828,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 104: April 14, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -836,7 +836,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 105: April 15, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -844,7 +844,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 106: April 16, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -852,7 +852,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 107: April 17, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -860,7 +860,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 108: April 18, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -868,7 +868,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 109: April 19, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -876,7 +876,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 110: April 20, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -884,7 +884,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 111: April 21, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -892,7 +892,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 112: April 22, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -900,7 +900,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 113: April 23, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -908,7 +908,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 114: April 24, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -916,7 +916,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 115: April 25, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -924,7 +924,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 116: April 26, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -932,7 +932,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 117: April 27, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -940,7 +940,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 118: April 28, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -948,7 +948,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 119: April 29, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
@@ -956,7 +956,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 ### Day 120: April 30, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
