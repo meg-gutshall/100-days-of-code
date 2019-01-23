@@ -170,15 +170,15 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Link to work**: [Double Cola](https://github.com/meg-gutshall/sandbox/blob/master/lib/double_cola.rb)
 
-<!-- ### Day 22: January 22, 2019
+### Day 22: January 22, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra Complex Forms Associations
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I'm still working through the second half of this Sinatra Complex Forms Associations lab. I'm going to have to go on Ask A Question tomorrow and get some help because I'm totally stuck on this new pets form and associating the owner back to them/creating a new owner. [Tweet](https://twitter.com/meg_gutshall/status/1087212265667989509)
 
-**Links to work**: [Title](link)
+**Link to work**: [Sinatra Complex Forms Associations](https://github.com/meg-gutshall/sinatra-complex-forms-associations-v-000)
 
-### Day 23: January 23, 2019
+<!-- ### Day 23: January 23, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
