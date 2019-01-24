@@ -178,15 +178,15 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Link to work**: [Sinatra Complex Forms Associations](https://github.com/meg-gutshall/sinatra-complex-forms-associations-v-000)
 
-<!-- ### Day 23: January 23, 2019
+### Day 23: January 23, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra Complex Forms Associations
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I FINALLY finished the Sinatra Complex Forms Associations lab!! Damn, that was hard! We had to use nested forms for the pets portion of the lab. Would have been nice to know that!!! TBH, if I was better at this I would have figured it out. A lesson I won't forget soon though (hopefully)! [Twitter](https://twitter.com/meg_gutshall/status/1088271074708590592)
 
-**Links to work**: [Title](link)
+**Link to work**: [Sinatra Complex Forms Associations](https://github.com/meg-gutshall/sinatra-complex-forms-associations-v-000)
 
-### Day 24: January 24, 2019
+<!-- ### Day 24: January 24, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
