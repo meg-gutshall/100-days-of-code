@@ -186,15 +186,15 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Link to work**: [Sinatra Complex Forms Associations](https://github.com/meg-gutshall/sinatra-complex-forms-associations-v-000)
 
-<!-- ### Day 24: January 24, 2019
+### Day 24: January 24, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra Playlister
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: This lab looks like it will be intense but I feel more confident going into this after completing my last lab. I actually pulled it up and compared it with the playlister and can see some similarities so I think it will be really helpful as I go along. I'm also starting to form some ideas for my project! :) [Tweet](https://twitter.com/meg_gutshall/status/1088655227446849536)
 
-**Links to work**: [Title](link)
+**Links to work**: [Sinatra Playlister](https://github.com/meg-gutshall/playlister-sinatra-v-000)
 
-### Day 25: January 25, 2019
+<!-- ### Day 25: January 25, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
