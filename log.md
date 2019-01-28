@@ -192,33 +192,31 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: This lab looks like it will be intense but I feel more confident going into this after completing my last lab. I actually pulled it up and compared it with the playlister and can see some similarities so I think it will be really helpful as I go along. I'm also starting to form some ideas for my project! :) [Tweet](https://twitter.com/meg_gutshall/status/1088655227446849536)
 
-**Links to work**: [Sinatra Playlister](https://github.com/meg-gutshall/playlister-sinatra-v-000)
+**Link to work**: [Sinatra Playlister](https://github.com/meg-gutshall/playlister-sinatra-v-000)
 
-<!-- ### Day 25: January 25, 2019
+### Day 25: January 25, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra Playlister and then I had some major computer issues that got me side tracked for a while.
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Another student and I were pairing up on the Sinatra Playlister lab and were seeding the database. When I seed dbs I would get a weird error message and we figured out there was a conflicting gem I had installed in an rvm gemset. It took me probably 40 minutes to find out in rvm where I was supposed to go to find the gem and uninstall it and that is NOT the first time I've ended up wasting a good chunk of time because their documentation is horrible. I decided to switch to rbenv instead. [Tweet](https://twitter.com/meg_gutshall/status/1089043106824114177)
 
-**Links to work**: [Title](link)
+**Link to work**: [Sinatra Playlister](https://github.com/meg-gutshall/playlister-sinatra-v-000)
 
 ### Day 26: January 26, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: rbenv installation headaches!!
 
-**Thoughts**: Thoughts and observations here...
-
-**Links to work**: [Title](link)
+**Thoughts**: I worked for ~12 hours today to get rbenv, my gems, and ruby to play nicely on my computer. Thankfully, I had another student help me out with troubleshooting. Again, it came down to unclear documentation. I plan to write a PR later this week or next weekend to submit explaining that they need more beginner-friendly language. [Tweet](https://twitter.com/meg_gutshall/status/1089370671774425088)
 
 ### Day 27: January 27, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra Playlister
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Finally got back to work again today! I got through my migrations, seeding, set up my models, but now I've started with the controllers and for some reason I'm getting 404 errors all around. I'm going to take another look at it tomorrow and see what I can do. [Tweet](https://twitter.com/meg_gutshall/status/1089727212645949440)
 
-**Links to work**: [Title](link)
+**Link to work**: [Sinatra Playlister](https://github.com/meg-gutshall/playlister-sinatra-v-000)
 
-### Day 28: January 28, 2019
+<!-- ### Day 28: January 28, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
