@@ -216,15 +216,15 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Link to work**: [Sinatra Playlister](https://github.com/meg-gutshall/playlister-sinatra-v-000)
 
-<!-- ### Day 28: January 28, 2019
+### Day 28: January 28, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra Playlister and hosted Code Talk!
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Did some pseudocode this morning at Code Talk on a pretty difficult problem involving balancing two sides of a scale. Paired up with Heather again for the Sinatra Playlister lab. We put a good 3.5 hours in today but still have 7 more tests to pass. Hopefully can wrap this up tomorrow! [Tweet](https://twitter.com/meg_gutshall/status/1090063576470093826)
 
-**Links to work**: [Title](link)
+**Links to work**: [Sinatra Playlister](https://github.com/meg-gutshall/playlister-sinatra-v-000) and [ScaleBalancing](https://repl.it/@meg_gutshall/ScaleBalancing)
 
-### Day 29: January 29, 2019
+<!-- ### Day 29: January 29, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
