@@ -224,15 +224,15 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Links to work**: [Sinatra Playlister](https://github.com/meg-gutshall/playlister-sinatra-v-000) and [ScaleBalancing](https://repl.it/@meg_gutshall/ScaleBalancing)
 
-<!-- ### Day 29: January 29, 2019
+### Day 29: January 29, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra Playlister
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: SO GLAD TO BE DONE THIS LAB!!! [Tweet](https://twitter.com/meg_gutshall/status/1090429558493466624)
 
-**Links to work**: [Title](link)
+**Link to work**: [Sinatra Playlister](https://github.com/meg-gutshall/playlister-sinatra-v-000)
 
-### Day 30: January 30, 2019
+<!-- ### Day 30: January 30, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
