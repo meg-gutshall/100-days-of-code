@@ -232,15 +232,15 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Link to work**: [Sinatra Playlister](https://github.com/meg-gutshall/playlister-sinatra-v-000)
 
-<!-- ### Day 30: January 30, 2019
+### Day 30: January 30, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Went to a Sinatra office hour session and updated my pinned repositories on GitHub.
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I found the contact info for a woman who works on the WW app - a company I've been trying to get in touch with for a while - so I went through my GitHub and made sure my pinned repos looked good. Grammy Googles still needs some work but it's passing for now. [Tweet](https://twitter.com/meg_gutshall/status/1090787657041375232)
 
-**Links to work**: [Title](link)
+**Links to work**: [Grammy Googles Repo](https://github.com/meg-gutshall/grammy-googles) and [Grammy Googles Site](https://meghangutshall.com/grammygoogles/)
 
-### Day 31: January 31, 2019
+<!-- ### Day 31: January 31, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
