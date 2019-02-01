@@ -240,15 +240,15 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Links to work**: [Grammy Googles Repo](https://github.com/meg-gutshall/grammy-googles) and [Grammy Googles Site](https://meghangutshall.com/grammygoogles/)
 
-<!-- ### Day 31: January 31, 2019
+### Day 31: January 31, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra NYC
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Started on the Sinatra NYC lab. I think my brain is just too fried right now to concentrate on anything. I got an hour of code in but I don't feel like I did an hour's worth of work. [Tweet](https://twitter.com/meg_gutshall/status/1091140382971305984)
 
-**Links to work**: [Title](link)
+**Links to work**: [Sinatra NYC](https://github.com/meg-gutshall/nyc-sinatra-v-000)
 
-### Day 32: February 1, 2019
+<!-- ### Day 32: February 1, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
