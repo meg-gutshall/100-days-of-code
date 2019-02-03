@@ -248,23 +248,23 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Links to work**: [Sinatra NYC](https://github.com/meg-gutshall/nyc-sinatra-v-000)
 
-<!-- ### Day 32: February 1, 2019
+### Day 32: February 1, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra NYC
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Got stuck alternating between two errors and it's driving me crazy!! I don't want this lab to be like the Playlister!!! I lost too much time on that one as it is!!
 
-**Links to work**: [Title](link)
+**Links to work**: [Sinatra NYC](https://github.com/meg-gutshall/nyc-sinatra-v-000)
 
 ### Day 33: February 2, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Sinatra NYC
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Awesome! Finished the NYC lab today! One of my stupid errors was that for my model for my join table class, the `belongs_to` relationship was written as plural when it should've been singular. Another was that I was trying to submit data through an edit form without sending a `PATCH` request to the server. Derp! I think I'm trying to rush these because I'm so close to the end of this section and really want to get to ActiveRecord. [Tweet](https://twitter.com/meg_gutshall/status/1091892130845519874)
 
-**Links to work**: [Title](link)
+**Links to work**: [Sinatra NYC](https://github.com/meg-gutshall/nyc-sinatra-v-000)
 
-### Day 34: February 3, 2019
+<!-- ### Day 34: February 3, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
