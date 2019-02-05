@@ -246,7 +246,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Started on the Sinatra NYC lab. I think my brain is just too fried right now to concentrate on anything. I got an hour of code in but I don't feel like I did an hour's worth of work. [Tweet](https://twitter.com/meg_gutshall/status/1091140382971305984)
 
-**Links to work**: [Sinatra NYC](https://github.com/meg-gutshall/nyc-sinatra-v-000)
+**Link to work**: [Sinatra NYC](https://github.com/meg-gutshall/nyc-sinatra-v-000)
 
 ### Day 32: February 1, 2019
 
@@ -254,7 +254,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Got stuck alternating between two errors and it's driving me crazy!! I don't want this lab to be like the Playlister!!! I lost too much time on that one as it is!!
 
-**Links to work**: [Sinatra NYC](https://github.com/meg-gutshall/nyc-sinatra-v-000)
+**Link to work**: [Sinatra NYC](https://github.com/meg-gutshall/nyc-sinatra-v-000)
 
 ### Day 33: February 2, 2019
 
@@ -262,31 +262,31 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Awesome! Finished the NYC lab today! One of my stupid errors was that for my model for my join table class, the `belongs_to` relationship was written as plural when it should've been singular. Another was that I was trying to submit data through an edit form without sending a `PATCH` request to the server. Derp! I think I'm trying to rush these because I'm so close to the end of this section and really want to get to ActiveRecord. [Tweet](https://twitter.com/meg_gutshall/status/1091892130845519874)
 
-**Links to work**: [Sinatra NYC](https://github.com/meg-gutshall/nyc-sinatra-v-000)
+**Link to work**: [Sinatra NYC](https://github.com/meg-gutshall/nyc-sinatra-v-000)
 
-<!-- ### Day 34: February 3, 2019
+### Day 34: February 3, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Fwitter
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Oh wow, Fwitter is definitely going to get me ready for the upcoming project! I chose to work solo since no one is online today but hopefully I can pair up with someone tomorrow! [Tweet](https://twitter.com/meg_gutshall/status/1092169078511489024)
 
-**Links to work**: [Title](link)
+**Link to work**: [Fwitter](https://github.com/meg-gutshall/sinatra-fwitter-group-project-v-000)
 
 ### Day 35: February 4, 2019
 
+**Today's Progress**: Worked through some of Flatiron's curriculum: Fwitter
+
+**Thoughts**: Yes! I paired with Heather and she helped me through that dumb error I had yesterday. We got further in the 90 minutes we coded but still, it's a hard lab! Can't wait to finish and move on to my project. [Tweet](https://twitter.com/meg_gutshall/status/1092636293127913473)
+
+**Link to work**: [Fwitter](https://github.com/meg-gutshall/sinatra-fwitter-group-project-v-000)
+
+<!-- ### Day 36: February 5, 2019
+
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
-
-### Day 36: February 5, 2019
-
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
-
-**Thoughts**: Thoughts and observations here...
-
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 37: February 6, 2019
 
@@ -294,7 +294,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 38: February 7, 2019
 
@@ -302,7 +302,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 39: February 8, 2019
 
@@ -310,7 +310,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 40: February 9, 2019
 
@@ -318,7 +318,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 41: February 10, 2019
 
@@ -326,7 +326,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 42: February 11, 2019
 
@@ -334,7 +334,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 43: February 12, 2019
 
@@ -342,7 +342,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 44: February 13, 2019
 
@@ -350,7 +350,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 45: February 14, 2019
 
@@ -358,7 +358,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 46: February 15, 2019
 
@@ -366,7 +366,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 47: February 16, 2019
 
@@ -374,7 +374,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 48: February 17, 2019
 
@@ -382,7 +382,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 49: February 18, 2019
 
@@ -390,7 +390,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 50: February 19, 2019
 
@@ -398,7 +398,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 51: February 20, 2019
 
@@ -406,7 +406,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 52: February 21, 2019
 
@@ -414,7 +414,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 53: February 22, 2019
 
@@ -422,7 +422,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 54: February 23, 2019
 
@@ -430,7 +430,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 55: February 24, 2019
 
@@ -438,7 +438,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 56: February 25, 2019
 
@@ -446,7 +446,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 57: February 26, 2019
 
@@ -454,7 +454,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 58: February 27, 2019
 
@@ -462,7 +462,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 59: February 28, 2019
 
@@ -470,7 +470,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 60: March 1, 2019
 
@@ -478,7 +478,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 61: March 2, 2019
 
@@ -486,7 +486,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 62: March 3, 2019
 
@@ -494,7 +494,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 63: March 4, 2019
 
@@ -502,7 +502,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 64: March 5, 2019
 
@@ -510,7 +510,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 65: March 6, 2019
 
@@ -518,7 +518,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 66: March 7, 2019
 
@@ -526,7 +526,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 67: March 8, 2019
 
@@ -534,7 +534,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 68: March 9, 2019
 
@@ -542,7 +542,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 69: March 10, 2019
 
@@ -550,7 +550,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 70: March 11, 2019
 
@@ -558,7 +558,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 71: March 12, 2019
 
@@ -566,7 +566,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 72: March 13, 2019
 
@@ -574,7 +574,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 73: March 14, 2019
 
@@ -582,7 +582,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 74: March 15, 2019
 
@@ -590,7 +590,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 75: March 16, 2019
 
@@ -598,7 +598,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 76: March 17, 2019
 
@@ -606,7 +606,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 77: March 18, 2019
 
@@ -614,7 +614,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 78: March 19, 2019
 
@@ -622,7 +622,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 79: March 20, 2019
 
@@ -630,7 +630,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 80: March 21, 2019
 
@@ -638,7 +638,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 81: March 22, 2019
 
@@ -646,7 +646,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 82: March 23, 2019
 
@@ -654,7 +654,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 83: March 24, 2019
 
@@ -662,7 +662,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 84: March 25, 2019
 
@@ -670,7 +670,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 85: March 26, 2019
 
@@ -678,7 +678,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 86: March 27, 2019
 
@@ -686,7 +686,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 87: March 28, 2019
 
@@ -694,7 +694,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 88: March 29, 2019
 
@@ -702,7 +702,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 89: March 30, 2019
 
@@ -710,7 +710,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 90: March 31, 2019
 
@@ -718,7 +718,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 91: April 1, 2019
 
@@ -726,7 +726,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 92: April 2, 2019
 
@@ -734,7 +734,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 93: April 3, 2019
 
@@ -742,7 +742,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 94: April 4, 2019
 
@@ -750,7 +750,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 95: April 5, 2019
 
@@ -758,7 +758,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 96: April 6, 2019
 
@@ -766,7 +766,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 97: April 7, 2019
 
@@ -774,7 +774,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 98: April 8, 2019
 
@@ -782,7 +782,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 99: April 9, 2019
 
@@ -790,7 +790,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 100: April 10, 2019
 
@@ -798,7 +798,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 101: April 11, 2019
 
@@ -806,7 +806,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 102: April 12, 2019
 
@@ -814,7 +814,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 103: April 13, 2019
 
@@ -822,7 +822,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 104: April 14, 2019
 
@@ -830,7 +830,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 105: April 15, 2019
 
@@ -838,7 +838,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 106: April 16, 2019
 
@@ -846,7 +846,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 107: April 17, 2019
 
@@ -854,7 +854,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 108: April 18, 2019
 
@@ -862,7 +862,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 109: April 19, 2019
 
@@ -870,7 +870,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 110: April 20, 2019
 
@@ -878,7 +878,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 111: April 21, 2019
 
@@ -886,7 +886,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 112: April 22, 2019
 
@@ -894,7 +894,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 113: April 23, 2019
 
@@ -902,7 +902,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 114: April 24, 2019
 
@@ -910,7 +910,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 115: April 25, 2019
 
@@ -918,7 +918,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 116: April 26, 2019
 
@@ -926,7 +926,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 117: April 27, 2019
 
@@ -934,7 +934,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 118: April 28, 2019
 
@@ -942,7 +942,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 119: April 29, 2019
 
@@ -950,7 +950,7 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link)
+**Link to work**: [Title](link)
 
 ### Day 120: April 30, 2019
 
@@ -958,4 +958,4 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: Thoughts and observations here...
 
-**Links to work**: [Title](link) -->
+**Link to work**: [Title](link) -->
