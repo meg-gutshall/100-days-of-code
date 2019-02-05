@@ -280,15 +280,15 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Link to work**: [Fwitter](https://github.com/meg-gutshall/sinatra-fwitter-group-project-v-000)
 
-<!-- ### Day 36: February 5, 2019
+### Day 36: February 5, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Did some review today with another student working on Tic Tac Toe with AI and also attended another Sinatra live build session hosted by section lead Howard.
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I refactored one of my methods in the Tic Tac Toe lab and it's so much simpler now! Still haven't hit the AI logic but I have plenty of time to get that done. The Sinatra live build session was great today! I feel like we got a lot of the app built out. It's still pretty slow progress though doing only one hour at a time. [Tweet](https://twitter.com/meg_gutshall/status/1092929099671265287)
 
-**Link to work**: [Title](link)
+**Links to work**: [Sinatra Community Gardener](https://github.com/meg-gutshall/sinatra-community-gardener) and [Tic Tac Toe with AI](https://github.com/meg-gutshall/ttt-with-ai-project-v-000)
 
-### Day 37: February 6, 2019
+<!-- ### Day 37: February 6, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
