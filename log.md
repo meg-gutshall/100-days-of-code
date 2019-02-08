@@ -288,23 +288,21 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Links to work**: [Sinatra Community Gardener](https://github.com/meg-gutshall/sinatra-community-gardener) and [Tic Tac Toe with AI](https://github.com/meg-gutshall/ttt-with-ai-project-v-000)
 
-<!-- ### Day 37: February 6, 2019
+### Day 37: February 6, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Mainly dropped in on Sinatra study sessions today and coded along with those.
 
-**Thoughts**: Thoughts and observations here...
-
-**Link to work**: [Title](link)
+**Thoughts**: I think the repetition of going to the same sessions over and over again is starting to help things really sink in. I'm identifying common problems and able to give correct answers that I know I couldn't have come up with before. Practice is key!!
 
 ### Day 38: February 7, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Fwitter
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Debugged some routing issues I was having and am finally moving forward with what feels like tangible progress that I actually understand, not just stumble through. This bodes well for my upcoming project!! [Tweet](https://twitter.com/meg_gutshall/status/1093718735590998017)
 
-**Link to work**: [Title](link)
+**Link to work**: [Fwitter](https://github.com/meg-gutshall/sinatra-fwitter-group-project-v-000)
 
-### Day 39: February 8, 2019
+<!-- ### Day 39: February 8, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
