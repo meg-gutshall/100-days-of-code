@@ -302,15 +302,15 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Link to work**: [Fwitter](https://github.com/meg-gutshall/sinatra-fwitter-group-project-v-000)
 
-<!-- ### Day 39: February 8, 2019
+### Day 39: February 8, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Fwitter
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Finally got done with Fwitter!!! Celebrate!!! I spent over an hour refactoring the crap out of it after I was done. It's interesting to see how much cleaner and easier you cna make things when you're not frustrated anymore by simply trying to make it work! Haha! [Tweet](https://twitter.com/meg_gutshall/status/1094105723879989248)
 
-**Link to work**: [Title](link)
+**Link to work**: [Fwitter](https://github.com/meg-gutshall/sinatra-fwitter-group-project-v-000)
 
-### Day 40: February 9, 2019
+<!-- ### Day 40: February 9, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
