@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 1, 2019
+## Day 1: January 1, 2019
 
 **Today's Progress**: I decided to try out a new code challenge site called HackerRank because I sort of committed to this #100DaysOfCode challenge at the last minute. You can read more about that in my blog post (COMING SOON!).
 
@@ -310,23 +310,19 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Link to work**: [Fwitter](https://github.com/meg-gutshall/sinatra-fwitter-group-project-v-000)
 
-<!-- ### Day 40: February 9, 2019
+### Day 40: February 9, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked on a Flatiron blog post
 
-**Thoughts**: Thoughts and observations here...
-
-**Link to work**: [Title](link)
+**Thoughts**: I'm writing about `ENV[SINATRA_ENV]` for my next blog post and spent a good chunk of time working on it. Will finish and publish it soon!
 
 ### Day 41: February 10, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Held a Code Talk study session
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: The topic of the session was a deep dive into FTP. I got my FileZilla app connected to my SiteGround server but now I'm thinking I may switch my hosting service because it was a real pain in the ass! Going to start in earnest on my project tomorrow. [Tweet](https://twitter.com/meg_gutshall/status/1094835000451743744)
 
-**Link to work**: [Title](link)
-
-### Day 42: February 11, 2019
+<!-- ### Day 42: February 11, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
