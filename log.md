@@ -328,11 +328,6 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: I held a Code Talk today and we did a CSS challenge which turned out to be way too hard. Again, I asked for people to help me find code challenges for these talks so... hopefully someone does! I spent some time thinking over what I want my Sinatra app to do and looking at other apps that are similar to mine to get a feel for what I want. I think I have a good idea and plan to start coding things out tomorrow. [Tweet](https://twitter.com/meg_gutshall/status/1095155596448460802)
 
-```html
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Day 42 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: Confession time yall... I don&#39;t think I got my hour in today. I had a lovely <a href="https://twitter.com/hashtag/CodeTalk?src=hash&amp;ref_src=twsrc%5Etfw">#CodeTalk</a> session with a <a href="https://twitter.com/hashtag/CSS?src=hash&amp;ref_src=twsrc%5Etfw">#CSS</a> challenge this morning and did planning and research for my Sinatra project... which I&#39;ll start to code tomorrow! <a href="https://twitter.com/FlatironSchool?ref_src=twsrc%5Etfw">@FlatironSchool</a> <a href="https://twitter.com/hashtag/snowday?src=hash&amp;ref_src=twsrc%5Etfw">#snowday</a></p>&mdash; meg_gutshall (@meg_gutshall) <a href="https://twitter.com/meg_gutshall/status/1095155596448460802?ref_src=twsrc%5Etfw">February 12, 2019</a></blockquote>
-```
-
 <!-- ## Day 43: February 12, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
