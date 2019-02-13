@@ -328,15 +328,15 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Thoughts**: I held a Code Talk today and we did a CSS challenge which turned out to be way too hard. Again, I asked for people to help me find code challenges for these talks so... hopefully someone does! I spent some time thinking over what I want my Sinatra app to do and looking at other apps that are similar to mine to get a feel for what I want. I think I have a good idea and plan to start coding things out tomorrow. [Tweet](https://twitter.com/meg_gutshall/status/1095155596448460802)
 
-<!-- ## Day 43: February 12, 2019
+## Day 43: February 12, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Started on my Sinatra project for Flatiron
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Finally made some headway on the Sinatra project today after waaaay too much procrastination. I got through the pre-project checklist and sent in a request to schedule a time to talk with one of the Flatiron leads(?) to go over it. I just got an email from this guy about the project so I'm guessing he has something to do with it... Will get into the meat tomorrow! [Tweet](https://twitter.com/meg_gutshall/status/1095490072865054720)
 
-**Link to work**: [Title](link)
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
-## Day 44: February 13, 2019
+<!-- ## Day 44: February 13, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
