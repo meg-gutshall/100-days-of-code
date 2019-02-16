@@ -336,31 +336,27 @@ On another note, I started my Sinatra Complex Forms Associations lab at the bar 
 
 **Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
-<!-- ## Day 44: February 13, 2019
+## Day 44: February 13, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
-
-**Thoughts**: Thoughts and observations here...
-
-**Link to work**: [Title](link)
+Skipped... Whoops!
 
 ## Day 45: February 14, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked on my blog post for Flatiron
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Almost finished my blog post today! Hope to wrap it up tomorrow!
 
-**Link to work**: [Title](link)
+**Link to work**: [What's Up With That!?: SINATRA_ENV](https://github.com/meg-gutshall/blog-posts/blob/master/flatiron-school/blog-5.md)
 
 ## Day 46: February 15, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked on my Sinatra project for Flatiron and published my blog post
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I had a good chat with one of the Learn instructors this morning and feel like I'm finally headed in the right direction with my project. I was able to get my migration tables created, set up my models, and set up my associations. Tomorrow I'm going to start working on the ActiveRecord validations to put in my models. [Tweet](https://twitter.com/meg_gutshall/status/1096575729100300289)
 
-**Link to work**: [Title](link)
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
-## Day 47: February 16, 2019
+<!-- ## Day 47: February 16, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
