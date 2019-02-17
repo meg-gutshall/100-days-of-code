@@ -356,15 +356,15 @@ Skipped... Whoops!
 
 **Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
-<!-- ## Day 47: February 16, 2019
+## Day 47: February 16, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked on my Sinatra project for Flatiron
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Today's word of the day is PROGRESS!! I got my models, associations, and validations written. I ran my migrations and am two-thirds of the way through creating and running my seed files. Can't wait to get all my parts connected so I can start the actual app building! [Tweet](https://twitter.com/meg_gutshall/status/1096994007996157952)
 
-**Link to work**: [Title](link)
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
-## Day 48: February 17, 2019
+<!-- ## Day 48: February 17, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
