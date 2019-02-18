@@ -368,7 +368,7 @@ Skipped... Whoops!
 
 **Today's Progress**: Worked on my Sinatra project for Flatiron
 
-**Thoughts**: Lots of thoughts today! In the spirit of keeping things DRY, I'll link to my latest [project post](https://github.com/meg-gutshall/sinatra-project/blob/master/docs/journal.md#sun-feb-17).
+**Thoughts**: Lots of thoughts today! In the spirit of keeping things DRY, I'll link to my latest [project post](https://github.com/meg-gutshall/sinatra-project/blob/master/docs/journal.md#sun-feb-17). [Tweet](https://twitter.com/meg_gutshall/status/1097334005907763200)
 
 **Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
