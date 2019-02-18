@@ -364,15 +364,15 @@ Skipped... Whoops!
 
 **Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
-<!-- ## Day 48: February 17, 2019
+## Day 48: February 17, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked on my Sinatra project for Flatiron
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Lots of thoughts today! In the spirit of keeping things DRY, I'll link to my latest [project post](https://github.com/meg-gutshall/sinatra-project/blob/master/docs/journal.md#sun-feb-17).
 
-**Link to work**: [Title](link)
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
-## Day 49: February 18, 2019
+<!-- ## Day 49: February 18, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
