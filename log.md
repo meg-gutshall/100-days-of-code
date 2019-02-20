@@ -372,23 +372,19 @@ Skipped... Whoops!
 
 **Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
-<!-- ## Day 49: February 18, 2019
+## Day 49: February 18, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
-
-**Thoughts**: Thoughts and observations here...
-
-**Link to work**: [Title](link)
+Skipped... Whoops again!!
 
 ## Day 50: February 19, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked on my Sinatra project for Flatiron
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Built out most of my `UsersController` today and my user edit form. I'm still trying to get the hang of interlacing the `SessionsController` and `UsersController` to create a new user as well as a new session. It's a little trickier than I had anticipated. [Tweet](https://twitter.com/meg_gutshall/status/1098041491115659264)
 
-**Link to work**: [Title](link)
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
-## Day 51: February 20, 2019
+<!-- ## Day 51: February 20, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
