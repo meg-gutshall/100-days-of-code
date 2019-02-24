@@ -394,31 +394,35 @@ After the frustrating set back, I was able to get my full CRUD done for my `User
 
 **Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
-<!-- ## Day 52: February 21, 2019
+## Day 52: February 21, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked on my Sinatra project for Flatiron
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I created slug helper methods for my `Reactions` model but I based them off of the `Medications` model. Basically the slug is the medication name followed by the reaction's `id`. I was trying to think of a way to persist the `medication_id` between views so I set a session key for this but I was told later that it's an insecure way to go about it and I should really set it up in my controller. I still have to figure out how to do this.
 
-**Link to work**: [Title](link)
+I cleaned up my new and edit medication forms a bit and added more info to my homepage so I can use it to display information as I test out my app. It's really coming in handy! I also dove into Bootstrap a bit tonight to create a navbar to make it easier for me to navigate between pages while testing everything out.
+
+I started implementing partials today into my views! I like how this project is coming along. I think I'm going to get a huge chunk of it done tomorrow and then wrap it up over the weekend. After talking some more with DJ, I'm not going to worry about associating the reactions to the specific medication dosage amounts. Instead, I'll add the medication information right into the reaction as it as at the time of creation. I think that will do pretty much the same thing I was hoping for. I also took the current attribute from my reactions model and moved it to my medications model because it made more sense there. [Tweet](https://twitter.com/meg_gutshall/status/1098842861829844992)
+
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
 ## Day 53: February 22, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked on my Sinatra project for Flatiron
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I'm getting very frustrated with my project because the past two nights I've attended the Sinatra Project AMA study group with DJ to ask for help, but have gotten answers as if I were doing a Rails project and they don't work in my Sinatra app! I do like the different type of interaction and conversations I'm able to have with him about programming, it's just annoying when the solutions I implement from the AMA study session don't work. I've been figuring out alternate solutions and at least my conversations with DJ will come in handy next project! [Tweet](https://twitter.com/meg_gutshall/status/1099140893456715776)
 
-**Link to work**: [Title](link)
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
 ## Day 54: February 23, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked on my Sinatra project for Flatiron
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I went to a friend's today intending to work at later on tonight but one this led to another and I ended up staying all day. I did show her my app and got some good feedback and ideas for eventual expansion. I also started styling so it's not that garish light blue color anymore.
 
-**Link to work**: [Title](link)
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
-## Day 55: February 24, 2019
+<!-- ## Day 55: February 24, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
