@@ -32,13 +32,13 @@
 
 **Link to work**: [Title](link) -->
 
-<!-- ## Day 55: February 24, 2019
+## Day 55: February 24, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked on my Sinatra project for Flatiron
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I started styling my project a little bit just to do something fun with it! Then I sucked it up and went to finish coding out my authorizations. I was trying to use `ActiveModel::Errors` to display errors in my views but it didn't seem to want to work for me. I ended up installing `sinatra-flash` instead and it looks pretty easy to work with. I'm _really_ hoping to finish up with this requirements for this project tomorrow so I can get it out to a few people to look at before I send it in for assessment. Long time coming but I think it will be worth it in the end for my portfolio. [Tweet](https://twitter.com/meg_gutshall/status/1099884463201443841)
 
-**Link to work**: [Title](link) -->
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
 ## Day 54: February 23, 2019
 
