@@ -24,13 +24,13 @@
 
 **Link to work**: [Title](link) -->
 
-<!-- ## Day 56: February 25, 2019
+## Day 56: February 25, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Held a Code Talk session and troubleshooted my Sinatra project
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I finally led a Code Talk session with a challenge that I was really happy with! Brad presented his React/Redux WIP project and I showed my Sinatra project, then we broke into two groups for the challenge and regrouped and had a nice dialog about regex. Now *that's* what I'm **_talking_** about!! Afterward Brad helped me solve some issues with my Sinatra project. I'm going to implement nested routes on Wednesday and see if they work out for me! [Tweet](https://twitter.com/meg_gutshall/status/1100060839971876864)
 
-**Link to work**: [Title](link) -->
+**Link to work**: [02.25.19 Code Talk](https://docs.google.com/document/d/1lMA22501Ow3wn37UXvljRczNtTBhuq22BlKUUOjk7d8/edit?usp=sharing)
 
 ## Day 55: February 24, 2019
 
