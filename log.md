@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-<!-- ## Day 59: February 28, 2019
+<!-- ## Day 60: March 1, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
@@ -8,21 +8,29 @@
 
 **Link to work**: [Title](link) -->
 
-<!-- ## Day 58: February 27, 2019
+## Day 59: February 28, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked on my Sinatra project for Flatiron
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Finished up with my controller validations and styled a little bit. Okay, maybe a lot. I got sucked in showing another student some Bootstrap stuff and it was the beginning of the end... [Tweet](https://twitter.com/meg_gutshall/status/1101371651290222592)
 
-**Link to work**: [Title](link) -->
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
-<!-- ## Day 57: February 26, 2019
+## Day 58: February 27, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked on my Sinatra project for Flatiron
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I discovered nested routing and it was the answer to all the frustration and confusion I went through last week!! (I wish it would have come a little earlier but, what can you do.) I implemented it and was able to get rid of a lot of unnecessary code that was junking up my app. I added a lot of validations to my forms by way of conditional redirections with flash messages. I just have to finish up with my medication and reaction controllers and then take care of all the comments throughout my code. Plus another student reminded me today of the blog post and video recordings that we have to do as well which I pretty much completely forgot about! [Tweet](https://twitter.com/meg_gutshall/status/1100981953724141568)
 
-**Link to work**: [Title](link) -->
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
+
+## Day 57: February 26, 2019
+
+**Today's Progress**: Worked on my Sinatra project for Flatiron
+
+**Thoughts**: I definitely didn't get an hour of code in today. I worked a little bit on my Sinatra project, but it was mainly to clear my head and take a break from talking to all the people at NET/WORK Philly. I made some great connections, but every event I go to is pretty exhausting by the end! [Tweet](https://twitter.com/meg_gutshall/status/1100474706040406016)
+
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
 ## Day 56: February 25, 2019
 
