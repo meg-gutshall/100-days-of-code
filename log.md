@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
-<!-- ## Day 60: March 1, 2019
+<!-- ## Day 61: March 2, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
 **Link to work**: [Title](link) -->
+
+## Day 60: March 1, 2019
+
+**Today's Progress**: Bootstrapping my Sinatra project
+
+**Thoughts**: Killing it in style
+
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
 ## Day 59: February 28, 2019
 
