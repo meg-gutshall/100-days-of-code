@@ -12,7 +12,7 @@
 
 **Today's Progress**: Bootstrapping my Sinatra project
 
-**Thoughts**: Killing it in style
+**Thoughts**: Killing it in style [Tweet](https://twitter.com/meg_gutshall/status/1101724084134662144)
 
 **Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
