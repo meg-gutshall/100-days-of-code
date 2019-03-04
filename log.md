@@ -8,6 +8,18 @@
 
 **Link to work**: [Title](link) -->
 
+## Day 62: March 3, 2019
+
+**Today's Progress**: Bootstrapping my Sinatra project [Tweet](https://twitter.com/meg_gutshall/status/1102408724185075713)
+
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
+
+## Day 61: March 2, 2019
+
+**Today's Progress**:  Bootstrapping my Sinatra project
+
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
+
 ## Day 60: March 1, 2019
 
 **Today's Progress**: Bootstrapping my Sinatra project
