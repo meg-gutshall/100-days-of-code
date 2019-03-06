@@ -1,12 +1,26 @@
 # 100 Days Of Code - Log
 
-<!-- ## Day 61: March 2, 2019
+<!-- ## Day 65: March 6, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
 **Link to work**: [Title](link) -->
+
+## Day 64: March 5, 2019
+
+**Today's Progress**: Worked on the Sinatra project
+
+**Thoughts**: I finished my about page and solved an issue that was messing with my dates. I think my about page is pretty cool! It has instructions on how to use the app, an FAQ section, how I got started with the idea, and my contact info. Tomorrow I'm going to write up my README file, record myself adding another feature, and record my walkthrough video. I also have to take my journal entries and mash them into something resembling a blog post but all the content is there already so that won't be too hard. [Tweet](https://twitter.com/meg_gutshall/status/1103159621261369344)
+
+**Link to work**:  [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
+
+## Day 63: March 4, 2019
+
+**Today's Progress**: Worked on my About page for the Sinatra project
+
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
 ## Day 62: March 3, 2019
 
