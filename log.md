@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-<!-- ## Day 65: March 6, 2019
+<!-- ## Day 70: March 11, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
@@ -8,13 +8,49 @@
 
 **Link to work**: [Title](link) -->
 
+<!-- ## Day 69: March 10, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+<!-- ## Day 68: March 9, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+## Day 67: March 8, 2019
+
+**DAY OFF FOR GIRL DAY!!**
+
+## Day 66: March 7, 2019
+
+**Today's Progress**: Worked on the Sinatra project
+
+**Thoughts**: I recorded my walkthrough video and hit a snag that took an hour to fix! In the user edit form, no matter what I do, the user is required to reenter their password. I didn't want to have to include that, but if I don't, the `params[:user][:password]` comes back empty and throws an error and, therefore, won't save any changes made in the edit form. Frustrating but I couldn't find a way around it and don't want to put in the time at this point to figuring it out. I also wrote up and outline for my blog post. I've been keeping this log plus a project journal so hopefully that will make it much easier to put the post together.
+
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
+
+## Day 65: March 6, 2019
+
+**Today's Progress**: Worked on the Sinatra project
+
+**Thoughts**: I recorded myself adding another feature and it went _really_ well. It was so stoked! I added a "Stop Taking Medication" button because I was worried that the user might delete the medication when they were off it (and as a result, lose all of the data attached to the medication and its associated reactions) instead of just marking it as not currently be being taken. There were a few attributes that didn't display properly when I ran shotgun, but I didn't hit an error page the whole time! I also wrote up my `README.md` file tonight so I slowly getting closer to the end! [Tweet](https://twitter.com/meg_gutshall/status/1103510389151727617)
+
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
+
 ## Day 64: March 5, 2019
 
 **Today's Progress**: Worked on the Sinatra project
 
 **Thoughts**: I finished my about page and solved an issue that was messing with my dates. I think my about page is pretty cool! It has instructions on how to use the app, an FAQ section, how I got started with the idea, and my contact info. Tomorrow I'm going to write up my README file, record myself adding another feature, and record my walkthrough video. I also have to take my journal entries and mash them into something resembling a blog post but all the content is there already so that won't be too hard. [Tweet](https://twitter.com/meg_gutshall/status/1103159621261369344)
 
-**Link to work**:  [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
 ## Day 63: March 4, 2019
 
