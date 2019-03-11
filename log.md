@@ -8,21 +8,21 @@
 
 **Link to work**: [Title](link) -->
 
-<!-- ## Day 69: March 10, 2019
+## Day 69: March 10, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked on the Sinatra project
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I wrote most of the rest of my blog post... just a little more to go! [Tweet](https://twitter.com/meg_gutshall/status/1104919882913730560)
 
-**Link to work**: [Title](link) -->
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
-<!-- ## Day 68: March 9, 2019
+## Day 68: March 9, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked on the Sinatra project
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I wrote about half of my blog post for the Sinatra project.
 
-**Link to work**: [Title](link) -->
+**Link to work**: [Sinatra Project](https://github.com/meg-gutshall/sinatra-project/)
 
 ## Day 67: March 8, 2019
 
