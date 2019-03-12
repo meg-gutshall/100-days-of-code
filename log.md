@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
-<!-- ## Day 70: March 11, 2019
+<!-- ## Day 71: March 12, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
 **Link to work**: [Title](link) -->
+
+## Day 70: March 11, 2019
+
+**Today's Progress**: Code Talk today!!
+
+**Thoughts**: Had a great Code Talk session this morning to start off the week! :) [Tweet](https://twitter.com/meg_gutshall/status/1105279327510454272)
+
+**Link to work**: [03.11.19 Code Talk](https://docs.google.com/document/d/1x2Q0WfJmEbK41NdLtUbcrLeUFzRd_ZL5StlXdtVPku8/edit?usp=sharing)
 
 ## Day 69: March 10, 2019
 
