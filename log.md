@@ -1,12 +1,28 @@
 # 100 Days Of Code - Log
 
-<!-- ## Day 71: March 12, 2019
+<!-- ## Day 73: March 14, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
 **Link to work**: [Title](link) -->
+
+## Day 72: March 13, 2019
+
+**Today's Progress**: I worked on updating my blog
+
+**Thoughts**: I added excerpts to all of my blog posts and fixed my About page. I like how it's looking and I think I will use my GitHub page as my portfolio site instead of paying for hosting for another year. [Tweet](https://twitter.com/meg_gutshall/status/1105980200272187392)
+
+**Link to work**: [Feral Code Philly](http://feralcodephilly.com/)
+
+## Day 71: March 12, 2019
+
+**Today's Progress**: I FINISHED MY SINATRA PROJECT
+
+**Thoughts**: [Tweet](https://twitter.com/meg_gutshall/status/1105638519966449664)
+
+**Link to work**: [Rxeaction](https://github.com/meg-gutshall/sinatra-project/)
 
 ## Day 70: March 11, 2019
 
