@@ -1,12 +1,26 @@
 # 100 Days Of Code - Log
 
-<!-- ## Day 73: March 14, 2019
+<!-- ## Day 75: March 16, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
 **Link to work**: [Title](link) -->
+
+<!-- ## Day 74: March 15, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+## Day 73: March 14, 2019
+
+**Today's Progress**: Helped other students with their Sinatra projects
+
+**Thoughts**: Today I looked at two other students' Sinatra projects and helped them with styling and troubleshooting. It felt good to be on the other side of the issue for once!
 
 ## Day 72: March 13, 2019
 
