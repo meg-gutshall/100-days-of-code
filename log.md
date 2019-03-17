@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-<!-- ## Day 75: March 16, 2019
+<!-- ## Day 76: March 17, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
@@ -8,13 +8,19 @@
 
 **Link to work**: [Title](link) -->
 
-<!-- ## Day 74: March 15, 2019
+## Day 75: March 16, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Updated and organized the Big Ass List of Code Knowledge spreadsheet
 
-**Thoughts**: Thoughts and observations here...
+**Link to work**: [BALOCK](http://bit.ly/flatiron-student-resources)
 
-**Link to work**: [Title](link) -->
+## Day 74: March 15, 2019
+
+**Today's Progress**: I PASSED MY SINATRA PROJECT ASSESSMENT!!
+
+**Thoughts**: [Tweet](https://twitter.com/meg_gutshall/status/1105638519966449664)
+
+**Link to work**: [Rxeactions](https://github.com/meg-gutshall/sinatra-project/)
 
 ## Day 73: March 14, 2019
 
@@ -36,7 +42,7 @@
 
 **Thoughts**: [Tweet](https://twitter.com/meg_gutshall/status/1105638519966449664)
 
-**Link to work**: [Rxeaction](https://github.com/meg-gutshall/sinatra-project/)
+**Link to work**: [Rxeactions](https://github.com/meg-gutshall/sinatra-project/)
 
 ## Day 70: March 11, 2019
 
