@@ -12,13 +12,13 @@
 
 **Today's Progress**: Updated and organized the Big Ass List of Code Knowledge spreadsheet
 
+**Thoughts**: [Tweet](https://twitter.com/meg_gutshall/status/1107139945712488448)
+
 **Link to work**: [BALOCK](http://bit.ly/flatiron-student-resources)
 
 ## Day 74: March 15, 2019
 
 **Today's Progress**: I PASSED MY SINATRA PROJECT ASSESSMENT!!
-
-**Thoughts**: [Tweet](https://twitter.com/meg_gutshall/status/1105638519966449664)
 
 **Link to work**: [Rxeactions](https://github.com/meg-gutshall/sinatra-project/)
 
