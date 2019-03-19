@@ -1,12 +1,44 @@
 # 100 Days Of Code - Log
 
-<!-- ## Day 76: March 17, 2019
+<!-- ## Day 80: March 21, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
 **Link to work**: [Title](link) -->
+
+<!-- ## Day 79: March 20, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+<!-- ## Day 78: March 19, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+## Day 77: March 18, 2019
+
+**Today's Progress**: Open source contribution
+
+**Thoughts**: I found a really cool Chrome extension called [30 Seconds of Knowledge](https://30secondsofknowledge.com/) that was suggested by another Flatiron student and checked out their GitHub. I noticed that they were looking for someone to review the Ruby code snippets they had so I went in and reviewed three of them and submitted a pull request. [Tweet](https://twitter.com/meg_gutshall/status/1107802587540176896)
+
+**Link to work**: [Review Ruby snippets](https://github.com/petrovicstefanrs/30_seconds_of_knowledge/pull/43)
+
+## Day 76: March 17, 2019
+
+**Today's Progress**: Code Talk session
+
+**Thoughts**: Had a great Code Talk session today! It was a hard challenge but we took the time to work through the whole thing until the end and ended up with two passing solutions!
+
+**Link to work**: [Meta MadLibs](https://repl.it/@meg_gutshall/MetaMadLibs)
 
 ## Day 75: March 16, 2019
 
