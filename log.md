@@ -8,21 +8,15 @@
 
 **Link to work**: [Title](link) -->
 
-<!-- ## Day 79: March 20, 2019
+## Day 79: March 20, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Reviewed old notes and worked through more Rails
 
-**Thoughts**: Thoughts and observations here...
+## Day 78: March 19, 2019
 
-**Link to work**: [Title](link) -->
+**Today's Progress**: Started on Rails today
 
-<!-- ## Day 78: March 19, 2019
-
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
-
-**Thoughts**: Thoughts and observations here...
-
-**Link to work**: [Title](link) -->
+**Thoughts**: Got through the first three lessons of Rails today... I'm excited to see what comes next!
 
 ## Day 77: March 18, 2019
 
