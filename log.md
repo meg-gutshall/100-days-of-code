@@ -1,12 +1,92 @@
 # 100 Days Of Code - Log
 
-<!-- ## Day 80: March 21, 2019
+<!-- ## Day 90: March 31, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
 **Link to work**: [Title](link) -->
+
+<!-- ## Day 89: March 30, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+<!-- ## Day 88: March 29, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+<!-- ## Day 87: March 28, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+<!-- ## Day 86: March 27, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+<!-- ## Day 85: March 26, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+<!-- ## Day 84: March 25, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+<!-- ## Day 83: March 24, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+<!-- ## Day 82: March 23, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+## Day 81: March 22, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: Rails MVC and Rails Static Request
+
+**Thoughts**: It's a lot of review. There's not too much different from Sinatra in here.
+
+**Link to work**: [Rails Notes](https://github.com/meg-gutshall/flatiron-curriculum-notes/tree/master/rails/introduction-to-rails)
+
+## Day 80: March 21, 2019
+
+**Today's Progress**: Contributed to the 30 Seconds of Knowledge extension!!
+
+**Thoughts**: [Tweet](https://twitter.com/meg_gutshall/status/1109256703894343680)
+
+**Link to work**: [Official Commit](https://github.com/petrovicstefanrs/30_seconds_of_knowledge/commit/c74fdd574c79716f79737c94e21ff67a57b93375)
 
 ## Day 79: March 20, 2019
 
