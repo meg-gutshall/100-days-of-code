@@ -40,37 +40,29 @@
 
 **Link to work**: [Title](link) -->
 
-<!-- ## Day 85: March 26, 2019
+## Day 85: March 26, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Prepping for upcoming study sessions
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: Excited for my first [Twitter chat](https://flatironschool.com/blog/join-us-for-an-exciting-twitter-discussion-on-how-women-shape-tech/) on Thursday! [Tweet](https://twitter.com/meg_gutshall/status/1110716586472673280)
 
-**Link to work**: [Title](link) -->
+## Day 84: March 25, 2019
 
-<!-- ## Day 84: March 25, 2019
+**Today's Progress**: Hosted a Code Talk session today
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Thoughts**: I think this session went really well today. We had a first-time attendee share their JavaScript project and ask for help which was followed by a 15-minute troubleshooting session. The group split into two for the code challenge in which one solved it using Ruby while the other used JavaScript. It was cool to see both solutions and how the approach was different depending on which language was used. Also I had two students volunteer to lead Code Talks!! [Tweet](https://twitter.com/meg_gutshall/status/1110343844338585600)
 
-**Thoughts**: Thoughts and observations here...
+**Link to work**: [03.25.19 Code Talk](https://docs.google.com/document/d/1eAnmiWtM9JKaGh0pXW3zKebyEmnWgsIjXqn0GSdNUnY/edit?usp=sharing)
 
-**Link to work**: [Title](link) -->
+## Day 83: March 24, 2019
 
-<!-- ## Day 83: March 24, 2019
+SKIPPED!
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+## Day 82: March 23, 2019
 
-**Thoughts**: Thoughts and observations here...
+**Today's Progress**: Worked through some of Flatiron's curriculum: Rails Hello World, ActiveRecord Models and Rails, and Intro to REST
 
-**Link to work**: [Title](link) -->
-
-<!-- ## Day 82: March 23, 2019
-
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
-
-**Thoughts**: Thoughts and observations here...
-
-**Link to work**: [Title](link) -->
+**Links to work**: [Rails Hello World](https://github.com/meg-gutshall/rails-hello-world-lab-v-000) and [ActiveRecord Models and Rails](https://github.com/meg-gutshall/rails-activerecord-model-rails-lab-v-000)
 
 ## Day 81: March 22, 2019
 
