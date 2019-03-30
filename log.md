@@ -16,29 +16,27 @@
 
 **Link to work**: [Title](link) -->
 
-<!-- ## Day 88: March 29, 2019
+## Day 88: March 29, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Published a new blog post
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I put a lot of work into my Flatiron blog Code Talk so I decided to take the demo blog post and transform it into an actual post with the Code Talk notes and session video! [Tweet](https://twitter.com/meg_gutshall/status/1111865790649827328)
 
-**Link to work**: [Title](link) -->
+**Link to work**: [Slipsum L. Jackson Blog Post](https://feralcodephilly.com/slipsum_l_jackson_blog_post)
 
-<!-- ## Day 87: March 28, 2019
+## Day 87: March 28, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Hosted and Code Talk and participated in a Twitter chat
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I hosted Code Talk: Flatiron Blog which mainly went over blogging ideas, best practices, how Flatiron hosts the student blogs through GitHub Pages, and how to customize your blog using Jekyll. I also took part in my first ever Twitter chat! That was really cool and I enjoyed it a lot! [Tweet](https://twitter.com/meg_gutshall/status/1111872891870740480)
 
-**Link to work**: [Title](link) -->
+## Day 86: March 27, 2019
 
-<!-- ## Day 86: March 27, 2019
+**Today's Progress**: Worked through some of Flatiron's curriculum: RESTful Action Index Lab, Rails Dynamic Request, Rails Dynamic Request Lab, and Rails URL Helpers
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Thoughts**: I'm definitely beginning to see what some people were talking about when they said that the Rails section was really buggy. At least I'll get a lot of practice opening GitHub issues and making pull requests! [Tweet](https://twitter.com/meg_gutshall/status/1111097059636137986)
 
-**Thoughts**: Thoughts and observations here...
-
-**Link to work**: [Title](link) -->
+**Links to work**: [RESTful Action Index Lab](https://github.com/meg-gutshall/rails-restful-index-action-lab-v-000), [Rails Dynamic Request](https://github.com/meg-gutshall/rails-dynamic-request-readme-v-000), [Rails Dynamic Request Lab](https://github.com/meg-gutshall/rails-dynamic-request-lab-v-000), and [Rails URL Helpers](https://github.com/meg-gutshall/rails-url-helpers-readme-v-000)
 
 ## Day 85: March 26, 2019
 
