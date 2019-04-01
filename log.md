@@ -8,13 +8,17 @@
 
 **Link to work**: [Title](link) -->
 
-<!-- ## Day 89: March 30, 2019
+## Day 90: March 31, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Hosted a Code Talk [Tweet](https://twitter.com/meg_gutshall/status/1112569740764069888)
 
-**Thoughts**: Thoughts and observations here...
+**Link to work**: [03.31.19 Code Talk](https://docs.google.com/document/d/1uHepiWfRrdYcmozpm1YWPtKNDykS6CRPPk8HipH6yaI/edit?usp=sharing)
 
-**Link to work**: [Title](link) -->
+## Day 89: March 30, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: Rails URL Helpers and Rails URL Helpers Lab
+
+**Thoughts**: I _finally_ finished the Rails URL Helpers lesson and started on the lab but I didn't finish it yet.
 
 ## Day 88: March 29, 2019
 
