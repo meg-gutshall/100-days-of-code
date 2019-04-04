@@ -1,12 +1,78 @@
 # 100 Days Of Code - Log
 
-<!-- ## Day 90: March 31, 2019
+<!-- ## Day 100: April 10, 2019
 
 **Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
 
 **Thoughts**: Thoughts and observations here...
 
 **Link to work**: [Title](link) -->
+
+<!-- ## Day 99: April 9, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+<!-- ## Day 98: April 8, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+<!-- ## Day 97: April 7, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+<!-- ## Day 96: April 6, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+<!-- ## Day 95: April 5, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+<!-- ## Day 94: April 4, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+
+**Thoughts**: Thoughts and observations here...
+
+**Link to work**: [Title](link) -->
+
+## Day 93: April 3, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: Rails `form_tag` Lab
+
+**Link to work**: [Rails `form_tag` Lab](https://github.com/meg-gutshall/rails-form_tag-lab-v-000) [Tweet](https://twitter.com/meg_gutshall/status/1113608991777677312)
+
+## Day 92: April 2, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: Rails `form_tag`
+
+**Link to work**: [Rails `form_tag`](https://github.com/meg-gutshall/rails-form_tag-readme-v-000) [Tweet](https://twitter.com/meg_gutshall/status/1113277596962381825)
+
+## Day 91: April 1, 2019
+
+**Today's Progress**: Worked through some of Flatiron's curriculum: Rails URL Helpers and Rails `form_tag` [Tweet](https://twitter.com/meg_gutshall/status/1112859748351856641)
+
+**Link to work**: [Rails URL Helpers](https://github.com/meg-gutshall/rails-url-helpers-readme-v-000)
 
 ## Day 90: March 31, 2019
 
