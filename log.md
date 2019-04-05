@@ -48,13 +48,13 @@
 
 **Link to work**: [Title](link) -->
 
-<!-- ## Day 94: April 4, 2019
+## Day 94: April 4, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Create Action, Create Action Lab, and Index, Show, New, Create Lab
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I feel like I'm starting to gain momentum in the curriculum again! It seems almost like Sinatra was the hard stuff and Rails is the "cheat sheet" version. [Tweet](https://twitter.com/meg_gutshall/status/1113978184154927105)
 
-**Link to work**: [Title](link) -->
+**Link to work**: [Create Action Lab](https://github.com/meg-gutshall/rails-create-action-lab-v-000) and [Index, Show, New, Create Lab](https://github.com/meg-gutshall/rails-index-show-new-create-lab-v-000)
 
 ## Day 93: April 3, 2019
 
