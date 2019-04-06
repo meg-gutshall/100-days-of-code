@@ -40,13 +40,13 @@
 
 **Link to work**: [Title](link) -->
 
-<!-- ## Day 95: April 5, 2019
+## Day 95: April 5, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Edit/Update Action, `form_for` on Edit, and Strong Params Basics
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I'm liking these form helpers. Definitely cleaner and easier than Sinatra. I can't WAIT to get to partials and test drive these puppies!! [Tweet](https://twitter.com/meg_gutshall/status/1114344326358810625)
 
-**Link to work**: [Title](link) -->
+**Links to work**: [Edit/Update Action](https://github.com/meg-gutshall/rails-edit-update-action-readme-v-000), [`form_for` on Edit](https://github.com/meg-gutshall/rails-form_for-on-edit-readme-v-000), and [Strong Params Basics](https://github.com/meg-gutshall/strong-params-basics-v-000)
 
 ## Day 94: April 4, 2019
 
