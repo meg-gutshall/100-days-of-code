@@ -32,13 +32,13 @@
 
 **Link to work**: [Title](link) -->
 
-<!-- ## Day 96: April 6, 2019
+## Day 96: April 6, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Rails Forms Overview and `form_for` Lab
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I'm still working through! Taking it one day at a time and just trying to get as much done as I can. [Tweet](https://twitter.com/meg_gutshall/status/1114721457995755520)
 
-**Link to work**: [Title](link) -->
+**Link to work**: [`form_for` Lab](https://github.com/meg-gutshall/rails-form_for-lab-v-000)
 
 ## Day 95: April 5, 2019
 
