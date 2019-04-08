@@ -24,13 +24,11 @@
 
 **Link to work**: [Title](link) -->
 
-<!-- ## Day 97: April 7, 2019
+## Day 97: April 7, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Rails Generators
 
-**Thoughts**: Thoughts and observations here...
-
-**Link to work**: [Title](link) -->
+**Thoughts**: I finished the Rails Generators lesson today. I'm so ready to keep moving forward in the curriculum, just too much other crap taking up my time right now!! UGH, can't wait until this busy time is over so I can just sit down and CODE! [Tweet](https://twitter.com/meg_gutshall/status/1115078437264330754)
 
 ## Day 96: April 6, 2019
 
