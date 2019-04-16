@@ -1,28 +1,24 @@
 # 100 Days Of Code - Log
 
-<!-- ## Day 100: April 10, 2019
+## Day 100: April 10, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: LAST DAY!!
 
-**Thoughts**: Thoughts and observations here...
+**Thoughts**: I finally made it!!! Oh my god that was so hard but I feel so good now that I made it to 100 days! To celebrate I made a special app in Sinatra that tells you whether or not it's Taco Tuesday. It's funny how my Sinatra portfolio project took a month to make and this app took 5 hours to make. Haha! [Tweet](https://twitter.com/meg_gutshall/status/1116216377243852800)
 
-**Link to work**: [Title](link) -->
+**Link to work**: [TacoTime](https://github.com/meg-gutshall/taco-time)
 
-<!-- ## Day 99: April 9, 2019
+## Day 99: April 9, 2019
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
+**Today's Progress**: Worked through some of Flatiron's curriculum: Rails Generators [Tweet](https://twitter.com/meg_gutshall/status/1115827381812572160)
 
-**Thoughts**: Thoughts and observations here...
+**Link to work**: [Rails Generators](https://github.com/meg-gutshall/rails-generators-readme-v-000)
 
-**Link to work**: [Title](link) -->
+## Day 98: April 8, 2019
 
-<!-- ## Day 98: April 8, 2019
+**Today's Progress**: Worked through some of Flatiron's curriculum: Rails Generators [Tweet](https://twitter.com/meg_gutshall/status/1115468286643331072)
 
-**Today's Progress**: Worked through some of Flatiron's curriculum: lesson names
-
-**Thoughts**: Thoughts and observations here...
-
-**Link to work**: [Title](link) -->
+**Link to work**: [Rails Generators](https://github.com/meg-gutshall/rails-generators-readme-v-000)
 
 ## Day 97: April 7, 2019
 
